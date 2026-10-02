@@ -2,6 +2,9 @@
 
 ## OpenAPI Mock Server Generator
 
+**Name:** Sruthi Vejju
+**SRN:** PES1UG24CS472
+
 **Problem Statement #41 -- Developer Tools & IT Operations**
 
 This repository contains the individual project work for the **OpenAPI
